@@ -16,7 +16,7 @@ Contém os slides de apresentação profissional de Rafael Robson Nunes de Araú
 - Stack técnica completa: linguagens, IA/LLM, dados, cloud e infra
 - Formação acadêmica e informações de contato
 
-**Formato:** PowerPoint (.pptx)  
+**Formato:** PowerPoint (.pptx) e .pdf
 **Slides:** 6 slides
 
 ---
