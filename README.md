@@ -205,7 +205,7 @@ Busco oportunidades na área de **Engenharia de Dados**, **IA/ML** e **Desenvolv
 
 <div align="center">
 
-**Desenvolvido com 💙 por Rafael Robson Nunes de Araújo**
+**Desenvolvido por Rafael Robson Nunes de Araújo**
 
 *Bootcamp I — CEUB 2026*
 
