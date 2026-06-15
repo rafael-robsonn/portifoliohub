@@ -45,19 +45,12 @@ Apresentar de forma organizada e profissional:
 ### • Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### • Versionamento e Hospedagem
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white)
-
-### • Ferramentas Google
-
-![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=flat&logo=google-docs&logoColor=white)
-![Google Slides](https://img.shields.io/badge/Google_Slides-FBBC04?style=flat&logo=google-slides&logoColor=black)
-![Google Sites](https://img.shields.io/badge/Google_Sites-4285F4?style=flat&logo=google&logoColor=white)
 
 ### • Ferramentas Google
 
