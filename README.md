@@ -3,7 +3,6 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Ativo-02C39A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Versão-1.1-6B48FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Licença-MIT-blue?style=for-the-badge" />
 </div>
